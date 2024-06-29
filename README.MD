@@ -16,3 +16,6 @@ c. Search the top 5 students for each of the above module
 d. Create a plot that should show the time for sort and search operation
 
 e. Create a plot to show the distribution of marks across modules
+
+## Guide
+Run the main.py file, all other function are imported.
